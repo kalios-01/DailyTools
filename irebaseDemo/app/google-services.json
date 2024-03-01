@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698530715565",
+    "project_id": "fir-demo-f7f1d",
+    "storage_bucket": "fir-demo-f7f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698530715565:android:1d489ba686a3ecf13bf324",
+        "android_client_info": {
+          "package_name": "com.kalios.irebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZn-do0iJaZOkuxf_NRCrTWM7leHDiJqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
